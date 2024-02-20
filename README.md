@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @KingKevin28
-- 👀 I’m interested in cats
-- 🌱 I’m currently learning cats
-- 💞️ I’m looking to collaborate on cats
-- 📫 How to reach me cats
-- 😄 Pronouns: ...
-- ⚡ Fun fact: The stanley cup is the STARS!!!!
+- 👀 I’m interested in nothing
+- 🌱 I’m currently learning nothing
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me 
+- 😄 Pronouns: 
+- ⚡ Fun fact: 
 
 <!---
 KingKevin28/KingKevin28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
